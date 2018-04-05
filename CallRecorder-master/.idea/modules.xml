@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CallRecorder-master.iml" filepath="$PROJECT_DIR$/CallRecorder-master.iml" />
+      <module fileurl="file://C:\Users\viper_000\Desktop\SLUPAPP\SLUP\AndroidAppDanya\CallRecorder-master\CallRecorder-master.iml" filepath="C:\Users\viper_000\Desktop\SLUPAPP\SLUP\AndroidAppDanya\CallRecorder-master\CallRecorder-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\viper_000\Desktop\SLUPAPP\SLUP\AndroidAppDanya\CallRecorder-master\app\app.iml" filepath="C:\Users\viper_000\Desktop\SLUPAPP\SLUP\AndroidAppDanya\CallRecorder-master\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/helpers/helpers.iml" filepath="$PROJECT_DIR$/helpers/helpers.iml" />
+      <module fileurl="file://C:\Users\viper_000\Desktop\SLUPAPP\SLUP\AndroidAppDanya\CallRecorder-master\helpers\helpers.iml" filepath="C:\Users\viper_000\Desktop\SLUPAPP\SLUP\AndroidAppDanya\CallRecorder-master\helpers\helpers.iml" />
     </modules>
   </component>
 </project>
