@@ -8,7 +8,7 @@ import java.io.File;
 
 /**
  * Created by Jeff on 01-May-16.
- * A Singleton
+ * A Singleton еуые
  * Wrapper around the default SharedPreferences so we can easily set and read our settings
  */
 public class AppPreferences {
